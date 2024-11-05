@@ -1,0 +1,5 @@
+C:/Users/ruseler/Documents/VScode/LAB3/STM32base/CMakeFiles/STM32base.dir
+C:/Users/ruseler/Documents/VScode/LAB3/STM32base/CMakeFiles/edit_cache.dir
+C:/Users/ruseler/Documents/VScode/LAB3/STM32base/CMakeFiles/rebuild_cache.dir
+C:/Users/ruseler/Documents/VScode/LAB3/STM32base/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/ruseler/Documents/VScode/LAB3/STM32base/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
